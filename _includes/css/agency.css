@@ -172,11 +172,11 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Merriweather',"Helvetica Neue",Helvetica,Arial,serif,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #2b2e94;
 }
 
 .navbar-default .navbar-toggle:hover,
