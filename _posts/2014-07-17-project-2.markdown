@@ -4,8 +4,8 @@ subtitle: E-filing
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: pen_spreadsheet.jpeg
+thumbnail: pen_spreadsheet.jpeg
 alt: image-alt
 project-date: July 2014
 client: iCan Events

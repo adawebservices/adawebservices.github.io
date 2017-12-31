@@ -9,7 +9,18 @@ description: "AccFin Services will help outsource your accounting needs."
 people:
 - name: Devi Warang
   pic: 1
-  position: Director
+  position: Director of Operations
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Ramniwas Warang
+  pic: 2
+  position: Director of Financial Services
   social:
     - title: twitter
       url: #
@@ -19,7 +30,7 @@ people:
       url: #
 
 - name: Prakash Nichite
-  pic: 2
+  pic: 4
   position: Head Accountant
   social:
     - title: twitter

@@ -4,8 +4,8 @@ subtitle: Tax Filing
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: tax_coins.jpeg
+thumbnail: tax_coins.jpeg
 alt: image-alt
 project-date: July 2014
 client: Aditya Housing Society

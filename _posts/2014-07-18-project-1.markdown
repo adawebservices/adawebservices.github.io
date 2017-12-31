@@ -4,8 +4,8 @@ subtitle: Accounts Writing
 layout: default
 modal-id: 1
 date: 2016-11-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: accounts_calculator.jpeg
+thumbnail: accounts_calculator.jpeg
 alt: image-alt
 project-date: November 2016
 client: Aarav Infotech
