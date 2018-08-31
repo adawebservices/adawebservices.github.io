@@ -17,10 +17,19 @@ people:
       url: #
     - title: stack-overflow
       url: #
-
-- name: Ramniwas Warang
+- name: Sai Warang
   pic: 2
-  position: Director of Financial Services
+  position: Director
+  social:
+    - tilte: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+- name: Vidya Desai
+  pic: 3
+  position: Administrator
   social:
     - title: twitter
       url: #
@@ -28,29 +37,7 @@ people:
       url: #
     - title: stack-overflow
       url: #
-
-- name: Prakash Nichite
-  pic: 4
-  position: Head Accountant
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Vinay Jogle
-  pic: 3
-  position: Junior Accountant
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+ 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
