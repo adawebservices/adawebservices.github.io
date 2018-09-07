@@ -19,13 +19,26 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.75;
 }
 
-p.large {
+p.large, ol.large {
     font-size: 16px;
+    color: #050100;
+    margin-top: 20px;
+    padding: 10px;
+    line-height: 2;
+    
 }
+
+p.heading{
+    font-size: 25px;
+    font-weight: 700;
+    font-style: italic;
+
+}
+
 
 a,
 a:hover,
@@ -177,7 +190,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: 'Merriweather',"Helvetica Neue",Helvetica,Arial,serif,cursive;
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.primary-light }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -741,6 +754,11 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
+.note{
+    font-size: 22px;
+    font-style: italic;
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
@@ -866,6 +884,13 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
+.col-md-6 {
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 20px
+    color: #000;
+
+}
 
 #accounts{
      text-align: center;
