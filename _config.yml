@@ -7,37 +7,32 @@ email: devi@accfinservices.com
 description: "AccFin Services will help outsource your accounting needs."
 # Team names, titles and social links
 people:
-- name: Devi Warang
+- name: Ramniwas Warang
   pic: 1
-  position: Director of Operations
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-- name: Sai Warang
-  pic: 2
   position: Director
-  social:
-    - tilte: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  
+- name: Devi Warang
+  pic: 2
+  position: Director of operation
+  
 - name: Vidya Desai
   pic: 3
   position: Administrator
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  
+- name: Aiswarya Pillai
+  pic: 4
+  position: Head of accounts
  
+
+- name: Prakash Nichite
+  pic: 5
+  position: Client servicing head
+ 
+
+ 
+
+  
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
