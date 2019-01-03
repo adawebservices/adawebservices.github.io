@@ -1,14 +1,14 @@
 ---
-title: Aaditya Housing Society
-subtitle: Tax Filing
+title: Harculas 
+subtitle: body building
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: tax_coins.jpeg
-thumbnail: tax_coins.jpeg
+img: gym.jpg
+thumbnail: gym.jpg
 alt: image-alt
 project-date: July 2014
-client: Aditya Housing Society
+client: Harculas
 category: Tax Filing
 description: Aaditya Housing Society needed their accounts done and their taxes filed.
 

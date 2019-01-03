@@ -1,15 +1,15 @@
 ---
-title: iCan Events
-subtitle: E-filing
+title: Accfin Services
+subtitle: Accounts writing
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: pen_spreadsheet.jpeg
-thumbnail: pen_spreadsheet.jpeg
+img: accounts.jpg
+thumbnail: accounts.jpg
 alt: image-alt
 project-date: July 2014
-client: iCan Events
-category: Tax Preparation
-description: We filed all the documents for the event management company.
+client: Devi Warang
+category: Accounts
+description: Accounts writing of Cos and Co-op. society.
 
 ---

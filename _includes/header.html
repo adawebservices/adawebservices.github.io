@@ -21,13 +21,17 @@
                     <li>
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
+
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
                     
                     <li>
                         <a class="page-scroll" href="#about">About</a>
                     </li>
-                    <li>
+                   <!-- <li>
                         <a class="page-scroll" href="#team">Team</a>
-                    </li>
+                    </li>-->
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
@@ -38,7 +42,53 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- Header -->
+
+<!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="/images/work.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>SEO Backed Web Design</h1>
+              <p>SEO is built into every site we create. Proper SEO starts with a proper design. When we develop a new website, our search engine optimization efforts help your website be discovered.</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="/images/laptop.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Responsive Web Design</h1>
+              <p>Creating a mobile-friendly website is no longer optional: it’s a necessity. It all starts with responsive web design.</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="/images/business-woman.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Social Media Marketing</h1>
+              <p>Facebook, Twitter, Instagram and many other networks are simply a part of daily life for millions – of us.
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div><!-- /.carousel -->
+
+
+
+    <!-- Header 
     <header>
         <div class="container">
             <div class="intro-text">
@@ -48,7 +98,7 @@
                 <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
-    </header>
+    </header>-->
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}

@@ -1,15 +1,15 @@
 ---
-title: Aarav Infotech
-subtitle: Accounts Writing
+title: Diyvachakshu
+subtitle: Hypno Healing
 layout: default
 modal-id: 1
-date: 2016-11-18
-img: accounts_calculator.jpeg
-thumbnail: accounts_calculator.jpeg
+date: 2018-12-15
+img: hypno.jpg
+thumbnail: hypno.jpg
 alt: image-alt
-project-date: November 2016
-client: Aarav Infotech
-category: Accounts Writing
-description: We helped digitize the bookkeeping efforts of a small IT business by writing their accounts and e-filing.
+project-date: Dec 2018
+client: Dr. Shinde
+category: Curing the person
+description: .
 
 ---

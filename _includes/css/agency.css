@@ -56,7 +56,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.secondary}};
 }
 
 h1,
@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: 'Merriweather',"Helvetica Neue",Helvetica,Arial,serif,cursive;
+    font-family: 'Lobster','Merriweather',"Helvetica Neue",Helvetica,Arial,serif,cursive;
     color: #{{ site.data.template.color.primary-light }};
 }
 
@@ -683,7 +683,8 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/sunny-misty.jpg');
+   
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -776,15 +777,16 @@ ul.social-buttons {
 }
 
 ul.social-buttons li a {
-    display: block;
-    width: 40px;
-    height: 40px;
-    border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
-    outline: 0;
+    padding:20px;
+    width: 50px; 
+    height: 50px;    
+    font-size: 30px;
     color: #fff;
-    background-color: #222;
+    text-align: center;
+    border-radius: 100%;
+    margin: 15px 5px;
+    text-decoration: none;
+    background-color: #3b5998;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -793,8 +795,11 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #ff6600;
+    
 }
+
+
 
 .btn:focus,
 .btn:active,
@@ -903,60 +908,6 @@ body {
     color: #000;
 
 }
-
-#accounts{
-     text-align: center;
-    color: #1E90FF;
-    background-attachment: scroll;
- /*  background-image: url('{{ site.baseurl }}img/services/1.jpg');*/
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    height: 500px;
-}
-
-#cfo{
-     text-align: center;
-    color: #fff;
-    background-attachment: scroll;
-   
-    background-position: center center;
-    background-repeat: none;
-   
-    height: 450px;
-}
-
-#tax{
-     text-align: center;
-    color: #fff;
-    background-attachment: scroll;
-   /* background-image: url('{{ site.baseurl }}img/services/3.jpg');*/
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    height: 450px;
-}
-
-#audit{
-     text-align: center;
-    color: #fff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}img/services/4.jpg');
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    height: 450px;
-}
-
 
 
 

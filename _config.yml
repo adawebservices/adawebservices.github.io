@@ -2,32 +2,31 @@ url: https://y7kim.github.io
 baseurl: 
 
 # Site settings
-title: AccFin Services
-email: devi@accfinservices.com
-description: "AccFin Services will help outsource your accounting needs."
+title: Ada Web Services
+email: 
+description: "Ada Web Services"
 # Team names, titles and social links
 people:
-- name: Ramniwas Warang
+- name: 
   pic: 1
-  position: Director
+  position:
   
-- name: Devi Warang
+- name: 
   pic: 2
-  position: Director of operation
+  position: 
   
-- name: Vidya Desai
+- name: 
   pic: 3
-  position: Administrator
+  position: 
   
-- name: Aiswarya Pillai
+- name: 
   pic: 4
-  position: Head of accounts
+  position: 
  
 
-- name: Prakash Nichite
+- name: 
   pic: 5
-  position: Client servicing head
- 
+  position: 
 
  
 
@@ -36,16 +35,18 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/accfinservices
+    url: https://twitter.com/
   - title: facebook
-    url: https://facebook.com/accfinservices
+    url: https://facebook.com/
+  - title: instagram
+  
+
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Office No. 01, Laxmi Sadan
-  - line: Near Swami Narayan Mandir
-  - line: Kesarbag, Gokhale Road
-  - line: Near Mulund Railway Station
+  - line: 401, Aditya 
+  - line: Mahakali Nagar
   - line: Mulund (East)
   - line: Mumbai 400081
 
