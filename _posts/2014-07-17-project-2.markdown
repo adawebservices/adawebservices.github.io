@@ -8,7 +8,7 @@ img: accounts.jpg
 thumbnail: accounts.jpg
 alt: image-alt
 project-date: July 2014
-client: Devi Warang
+client: Accfin Services
 category: Accounts
 description: Accounts writing of Cos and Co-op. society.
 
