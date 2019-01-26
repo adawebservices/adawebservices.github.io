@@ -1,5 +1,5 @@
 ---
-title: Harculas 
+title: Hercules 
 subtitle: body building
 layout: default
 modal-id: 3
@@ -8,8 +8,8 @@ img: gym.jpg
 thumbnail: gym.jpg
 alt: image-alt
 project-date: July 2014
-client: Harculas
-category: Tax Filing
-description: Aaditya Housing Society needed their accounts done and their taxes filed.
+client: Hercules
+category: Gym
+description: 
 
 ---
